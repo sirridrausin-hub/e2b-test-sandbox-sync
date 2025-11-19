@@ -1,7 +1,6 @@
 {
-  "name": "e2b-final-test",
+  "name": "e2b-perfect-test",
   "version": "1.0.0",
-  "description": "Final test of E2B CI/CD system",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
